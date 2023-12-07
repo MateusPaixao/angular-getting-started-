@@ -1,0 +1,10 @@
+.cart-item {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-control {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
